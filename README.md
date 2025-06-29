@@ -16,3 +16,5 @@ Decision Tree (Pohon Keputusan) adalah algoritma klasifikasi dan regresi berbent
 ✅ Cocok untuk data yang kompleks dan nonlinear  
 ✅ Bisa digunakan untuk klasifikasi maupun regresi
 
+# Tujuan
+Untuk memenuhi tugas UAS Data Mining
